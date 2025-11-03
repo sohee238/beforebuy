@@ -2,7 +2,7 @@ import { useState, useEffect } from 'react';
 import { calculateReturns } from '../lib/calculations';
 import { WishvestEvents } from '../lib/analytics';
 import svgPaths from '../imports/svg-moyr54sz5y';
-import img1 from 'figma:asset/aa8025152ea28884023d956a0c9be52cb6000f32.png';
+//import img1 from 'figma:asset/aa8025152ea28884023d956a0c9be52cb6000f32.png';
 
 interface SimulationProps {
   wishName: string;
